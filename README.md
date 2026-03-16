@@ -1,95 +1,114 @@
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     OMAR ELBAZ — GitHub Profile README
+     SaaS Architect · Full Stack Engineer · AI Solutions · Morocco 🇲🇦
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--          ANIMATED HEADER BANNER                 -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════
+     ⬛  CINEMATIC HEADER — Sliced Diagonal
+══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:0d1b2a,100:0a192f&height=280&section=header&text=Omar%20Elbaz&fontSize=90&fontColor=e2e8f0&fontAlignY=45&desc=SaaS%20Architect%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Solutions&descAlignY=65&descSize=18&descColor=64ffda&animation=fadeIn&stroke=64ffda&strokeWidth=1" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:050505,40:0a192f,100:0d2137&height=220&section=header&text=Omar%20Elbaz&fontSize=72&fontColor=ffffff&fontAlignY=55&desc=Architecting%20Digital%20Empires%20Since%202020&descSize=16&descColor=64ffda&descAlignY=75&animation=twinkling&reversal=true" />
+
+</div>
+
+<!-- ══════════════════════════════════════════════
+     ⚡  LIVE TYPING BANNER
+══════════════════════════════════════════════ -->
+
+<div align="center">
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--            TYPING ANIMATION                     -->
-<!-- ╚══════════════════════════════════════════════╝ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&width=700&lines=Architecting+Digital+Empires+%F0%9F%8F%9B%EF%B8%8F;React+%26+Next.js+Specialist+%E2%9A%A1;Building+Scalable+SaaS+%26+AI+Solutions+%F0%9F%A4%96;5%2B+Years+%7C+25%2B+Projects+Delivered+%F0%9F%9A%80;Available+for+Innovation+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=64FFDA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=%E2%96%B6+SaaS+Architect+%26+Full+Stack+Engineer;%E2%96%B6+React+%26+Next.js+Specialist+%7C+5%2B+Years;%E2%96%B6+Scalable+AI+Solutions+%7C+25%2B+Projects;%E2%96%B6+Blending+Engineering+Precision+%26+Design;%E2%96%B6+Available+for+Innovation+%E2%9C%85)](https://omarelbaz.vercel.app)
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--               SOCIAL BADGES                     -->
-<!-- ╚══════════════════════════════════════════════╝ -->
-
-<a href="https://github.com/omaelbaz" target="_blank">
-  <img src="https://img.shields.io/badge/-%40omaelbaz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/omaelbaz/" target="_blank">
-  <img src="https://img.shields.io/badge/-Omar%20Elbaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" />
-</a>
-&nbsp;
-<a href="https://x.com/omaelbaz" target="_blank">
-  <img src="https://img.shields.io/badge/-%40omaelbaz-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="mailto:oelbaz010@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-oelbaz010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a0a" />
-</a>
-&nbsp;
-<a href="https://omarelbaz.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-64ffda?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a192f" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=omaelbaz&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS&base=1000" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-Available%20for%20Innovation-64ffda?style=for-the-badge" />
+<!-- Profile views + status -->
+<img src="https://komarev.com/ghpvc/?username=omaelbaz&style=flat-square&color=64ffda&label=PROFILE+VIEWS" />
+&ensp;
+<img src="https://img.shields.io/badge/%E2%9C%85-Available%20for%20Innovation-64ffda?style=flat-square&labelColor=0a192f" />
+&ensp;
+<img src="https://img.shields.io/badge/🇲🇦-Morocco-cc0001?style=flat-square&labelColor=006233" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--               ABOUT SECTION                     -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════
+     🔗  SOCIAL LINKS — Glassmorphism pill row
+══════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 &nbsp;Beyond The Code&nbsp; 〕
+[![GitHub](https://img.shields.io/badge/GitHub-%40omaelbaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omaelbaz)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Elbaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaelbaz/)&ensp;[![X](https://img.shields.io/badge/X-%40omaelbaz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/omaelbaz)&ensp;[![Email](https://img.shields.io/badge/Email-oelbaz010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oelbaz010@gmail.com)&ensp;[![Portfolio](https://img.shields.io/badge/Portfolio-omarelbaz.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=000000)](https://omarelbaz.vercel.app/)
 
 </div>
 
 <br/>
 
-<table border="0" align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
+<!-- NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-```yaml
-name        : Omar Elbaz
-role        : SaaS Architect & Full Stack Engineer
-specialty   : React · Next.js · Scalable SaaS · AI Solutions
-background  : Architectural Engineering + Computer Science
-philosophy  : "I don't just write code; I design systems."
-location    : Morocco 🇲🇦
-experience  : 5+ Years
-projects    : 25+ Delivered
-status      : ✅ Available for Innovation
+<br/>
+
+<!-- ══════════════════════════════════════════════
+     🧠  ABOUT — Code block aesthetic
+══════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                        SYSTEM PROFILE v2026                      ║
+╠════════════════════════╦══════════════════════════════════════════╣
+║  NAME                  ║  Omar Elbaz                              ║
+║  ROLE                  ║  SaaS Architect · Full Stack Engineer    ║
+║  CORE STACK            ║  React · Next.js · TypeScript · Node.js  ║
+║  BACKGROUND            ║  Arch. Engineering + Computer Science    ║
+║  PHILOSOPHY            ║  "I don't just write code; I design      ║
+║                        ║   systems."                              ║
+║  EXPERIENCE            ║  5+ Years · 25+ Projects Delivered       ║
+║  LOCATION              ║  Morocco 🇲🇦                             ║
+║  STATUS                ║  ✅ ONLINE — Available for Innovation    ║
+╚════════════════════════╩══════════════════════════════════════════╝
 ```
 
+</div>
+
 <br/>
 
-> 🏗️ Blending **structural precision** with **creative fluidity** to build scalable, maintainable, and performant applications that stand the test of time.
+<!-- TWO-COLUMN: BIO + STATS -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="52%" valign="top" align="left">
+
+### `> whoami`
+
+With a rare background spanning **architectural engineering** and **computer science**, I bring structural precision to every line of code.
+
+I architect **scalable SaaS platforms**, **AI-powered products**, and **high-performance web applications** — blending creative fluidity with engineering rigour to build things that last.
+
+<br/>
+
+```diff
++ React & Next.js Specialist
++ Scalable SaaS Architecture
++ AI Integration & OpenAI API
++ RTL / Arabic-first UI Systems
++ Full-Stack TypeScript
+- Mediocre work (not in my vocabulary)
+```
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="4%"></td>
+<td width="44%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omaelbaz&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&ring_color=64ffda" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=omaelbaz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&rank_icon=percentile" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omaelbaz&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=a8b2d8&dates=555&currStreakNum=fff&sideNums=fff" width="100%"/>
 
 </td>
 </tr>
@@ -97,95 +116,110 @@ status      : ✅ Available for Innovation
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--           CONTRIBUTION SNAKE                    -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- CONTRIBUTION SNAKE -->
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </picture>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--               TECH STACK                        -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════
+     🛠  TECH ARSENAL
+══════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 &nbsp;Tech Arsenal&nbsp; 〕
+## `{ Tech Arsenal }`
 
 <br/>
 
-**⚡ &nbsp;Frontend**
+<!-- Animated skill icons — grouped beautifully -->
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=6" />
+<table border="0" align="center">
+<tr>
+<td align="center" width="160">
 
+**⚡ Frontend**
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
-**🔷 &nbsp;Language**
+</td>
+<td align="center" width="80">
 
+**🔷 Lang**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
 
+</td>
+<td align="center" width="210">
+
+**🛠 Backend & DB**
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,postgres&theme=dark" />
 
-**🛠 &nbsp;Backend**
+</td>
+<td align="center" width="130">
 
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,postgres&theme=dark&perline=6" />
-
+**☁️ DevOps**
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" />
 
-**☁️ &nbsp;DevOps & Cloud**
+</td>
+<td align="center" width="80">
 
-<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark&perline=6" />
-
+**🎨 Design**
 <br/><br/>
-
-**🎨 &nbsp;Design**
-
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-EF008F?style=flat-square&logo=framer&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+<br/>
+
+<!-- Flat badge strip -->
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=next.js&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff)
+![Framer](https://img.shields.io/badge/Framer_Motion-EF008F?style=flat-square&logo=framer&logoColor=fff)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=fff)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--              SELECTED WORKS                     -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════
+     🚀  SELECTED WORKS — Premium card grid
+══════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 &nbsp;Selected Works&nbsp; 〕
+## `{ Selected Works }`
 
 *Crafting digital experiences that leave a mark.*
 
@@ -193,176 +227,213 @@ status      : ✅ Available for Innovation
 
 <br/>
 
-<table border="0" width="100%">
+<!-- PROJECT CARDS — 2×2 grid using HTML table -->
+
+<table width="100%" border="0">
+
+<!-- ── ROW 1 ── -->
 <tr>
+
+<!-- CARD 1: Intilaq -->
 <td width="50%" valign="top">
 
 <div align="center">
 
-### &nbsp;🛍️&nbsp; Intilaq E-Commerce
+<img src="https://img.shields.io/badge/◈_CASE_STUDY_01-Premium_E--Commerce-64ffda?style=flat-square&labelColor=0a192f&color=64ffda"/>
 
-![Case Study](https://img.shields.io/badge/▶_Case_Study-Premium_E--Commerce-64ffda?style=flat-square)
+### 🛍️ &nbsp;Intilaq E-Commerce
 
 </div>
 
-A high-end e-commerce interface built for Arabic-first markets, featuring a **premium dark mode** and **native RTL support** — where luxury meets performance.
+> A high-end e-commerce interface engineered for Arabic-first markets. Features a **premium dark mode** and **native RTL support** — where luxury meets performance at scale.
 
 <br/>
 
-`Next.js` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `RTL UI` &nbsp;·&nbsp; `Dark Mode`
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![RTL](https://img.shields.io/badge/RTL_UI-0a192f?style=flat-square)
+![Dark Mode](https://img.shields.io/badge/Dark_Mode-111?style=flat-square)
+
+</div>
 
 </td>
+
+<!-- CARD 2: Aura -->
 <td width="50%" valign="top">
 
 <div align="center">
 
-### &nbsp;👟&nbsp; Aura — AI Sneaker Platform
+<img src="https://img.shields.io/badge/◈_CASE_STUDY_02-Generative_AI_Platform-64ffda?style=flat-square&labelColor=0a192f&color=64ffda"/>
 
-![Case Study](https://img.shields.io/badge/▶_Case_Study-Generative_AI-64ffda?style=flat-square)
+### 👟 &nbsp;Aura — AI Sneaker Studio
 
 </div>
 
-A futuristic e-commerce platform with a **built-in Generative AI engine** — design unique sneakers via text prompts like *"Lion cat tiger"*. High-fidelity dark UI, seamless transitions & Stripe payments.
+> Futuristic e-commerce platform with a **built-in Generative AI engine**. Design unique sneakers via text prompts like *"Lion cat tiger"*. High-fidelity dark UI, seamless Framer Motion transitions, and Stripe payments.
 
 <br/>
 
-`Next.js 14` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `OpenAI API` &nbsp;·&nbsp; `Stripe` &nbsp;·&nbsp; `Framer Motion`
+<div align="center">
+
+![Next.js 14](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-EF008F?style=flat-square&logo=framer&logoColor=white)
+
+</div>
 
 </td>
+
 </tr>
 
 <tr><td colspan="2"><br/></td></tr>
 
+<!-- ── ROW 2 ── -->
 <tr>
+
+<!-- CARD 3: ArabAI -->
 <td width="50%" valign="top">
 
 <div align="center">
 
-### &nbsp;🎓&nbsp; ArabAI Academy
+<img src="https://img.shields.io/badge/◈_CASE_STUDY_03-EdTech_Platform-64ffda?style=flat-square&labelColor=0a192f&color=64ffda"/>
 
-![Case Study](https://img.shields.io/badge/▶_Case_Study-EdTech_Platform-64ffda?style=flat-square)
+### 🎓 &nbsp;ArabAI Academy
 
 </div>
 
-The **leading Arabic AI education platform** — empowering Arab youth with future-ready skills in Machine Learning & Deep Learning through interactive courses and structured learning paths.
+> The **leading Arabic AI education platform** — empowering Arab youth with Machine Learning & Deep Learning skills through structured learning paths and interactive courses.
 
 <br/>
 
-`Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `Framer Motion`
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-EF008F?style=flat-square&logo=framer&logoColor=white)
+
+</div>
 
 </td>
+
+<!-- CARD 4: Alandroidnet -->
 <td width="50%" valign="top">
 
 <div align="center">
 
-### &nbsp;📱&nbsp; Alandroidnet — Alandroid العربي
+<img src="https://img.shields.io/badge/◈_CASE_STUDY_04-High_Traffic_Platform-64ffda?style=flat-square&labelColor=0a192f&color=64ffda"/>
 
-![Case Study](https://img.shields.io/badge/▶_Case_Study-High_Traffic_Platform-64ffda?style=flat-square)
+### 📱 &nbsp;Alandroidnet — Alandroid العربي
 
 </div>
 
-A **high-traffic content platform** for safe Arabic app reviews and downloads — serving the Arabic-speaking tech community with curated, trustworthy content at scale.
+> A **high-traffic Arabic content platform** delivering safe app reviews and downloads. Built for scale, SEO-optimised, and served via a Headless CMS for the Arabic-speaking tech community.
 
 <br/>
 
-`Next.js` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `Headless CMS` &nbsp;·&nbsp; `SEO`
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![CMS](https://img.shields.io/badge/Headless_CMS-555?style=flat-square)
+![SEO](https://img.shields.io/badge/SEO_Optimised-4CAF50?style=flat-square)
+
+</div>
 
 </td>
+
 </tr>
+
 </table>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--              GITHUB STATS                       -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════
+     📊  GITHUB STATS
+══════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 &nbsp;GitHub Stats&nbsp; 〕
+## `{ GitHub Stats }`
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=omaelbaz&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaelbaz&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&langs_count=8" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=omaelbaz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaelbaz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=8"/>
 
 <br/><br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=omaelbaz&theme=merko&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omaelbaz&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=0a192f&hide_border=true" width="95%" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=omaelbaz&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=0a192f&hide_border=true&custom_title=Contribution+Graph" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--              TROPHIES                           -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════
+     🏆  TROPHIES
+══════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 &nbsp;Achievements&nbsp; 〕
+## `{ Achievements }`
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=omaelbaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=omaelbaz&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--              CALL TO ACTION                     -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════
+     ✉️  CTA — Let's Build
+══════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 &nbsp;Let's Build Something Exceptional&nbsp; 〕
+## `{ Let's Build Something Exceptional }`
 
 <br/>
 
-> *"Every great product starts with a conversation."*
+```
+  ┌─────────────────────────────────────────────────────────┐
+  │                                                         │
+  │   Every great product starts with a conversation.       │
+  │   Let's create something that stands the test of time.  │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<a href="mailto:oelbaz010@gmail.com">
-  <img src="https://img.shields.io/badge/💌_Send_an_Email-EA4335?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/omaelbaz/">
-  <img src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://omarelbaz.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_View_Portfolio-64ffda?style=for-the-badge&logoColor=black" />
-</a>
+[![Email](https://img.shields.io/badge/💌_Email_Me-EA4335?style=for-the-badge)](mailto:oelbaz010@gmail.com)&ensp;[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/omaelbaz/)&ensp;[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0a192f?style=for-the-badge&labelColor=64ffda&color=0a192f)](https://omarelbaz.vercel.app/)&ensp;[![GitHub](https://img.shields.io/badge/⭐_Follow-181717?style=for-the-badge&logo=github)](https://github.com/omaelbaz)
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
+<!-- Rotating quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don%27t%20just%20write%20code%3B%20I%20design%20systems.&author=Omar%20Elbaz" width="80%"/>
 
-<br/>
+<br/><br/>
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--                   FOOTER                        -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════
+     🌊  FOOTER WAVE
+══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d1b2a,100:000000&height=140&section=footer&text=Built%20with%20Next.js%2C%20Tailwind%20%26%20%E2%9D%A4%EF%B8%8F%20in%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&fontSize=15&fontColor=64ffda&fontAlignY=65&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,60:0d2137,100:050505&height=130&section=footer&text=Built%20with%20Next.js%2C%20Tailwind%20%26%20%E2%9D%A4%EF%B8%8F%20in%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&fontSize=14&fontColor=64ffda&fontAlignY=68&animation=fadeIn"/>
